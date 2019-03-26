@@ -1,0 +1,20 @@
+.mui-scroll-wrapper{
+    padding-top: 44px;
+}
+.price-1{
+    color:#ff3300;
+}
+.price-2{
+    text-decoration:line-through;
+}
+
+.gray{
+    color:#8f8f94;
+}
+.total{
+    text-align: right;
+    padding-top: 10px;
+}
+
+
+

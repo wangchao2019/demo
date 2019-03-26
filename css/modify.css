@@ -1,0 +1,15 @@
+.mui-scroll-wrapper{
+    padding-top: 44px;
+}
+.getCode{
+    position: absolute;
+    right: 10px;
+    transform: translateY(50%);
+    color: #006699;
+    font-size: 10px;
+}
+#modifyBtn{
+    background-color: hotpink;
+    font-size: 20px;
+    width: 100%;
+height: 100%}
